@@ -5,4 +5,5 @@ npm-debug.*
 *.p12
 *.key
 *.mobileprovision
-./config/config.js
+
+config/config.js
